@@ -1,5 +1,5 @@
 # Ex. No: 6 Identifying MAC and IP Addresses Using Packet Tracer
-# Date:
+# Date:13-09-2025
 ________________________________________
 # Objective
 To use Cisco Packet Tracer simulation mode to capture and analyze MAC and IP address information for both local and remote network communication.
@@ -48,8 +48,21 @@ Switch1	000C:85CC:1DA7	00D0:D311:C788	N/A	N/A<br>
 172.16.31.2	00D0:D311:C788	000C:85CC:1DA7	172.16.31.2	172.16.31.5<br>
 ________________________________________
 # Output (Screenshots)
-•	PDU details for local communication<br>
-•	PDU details for remote communication<br>
+•	PDU details for local communication:
+<img width="1920" height="1080" alt="491366719-e2d95ecd-345a-43c4-9041-3afa991d7343" src="https://github.com/user-attachments/assets/f08c0b07-8b6a-45d4-b4eb-9691081abd14" />
+<img width="1920" height="1080" alt="491366714-4208635d-8b3b-4800-bea7-cb6b9e1068de" src="https://github.com/user-attachments/assets/0f4afb48-750b-4607-bde3-231a2b78d696" />
+<img width="1920" height="1080" alt="491366707-b07c6fe5-81c6-4cb6-90e1-b90ba4515f35" src="https://github.com/user-attachments/assets/f8d02104-ca3e-481c-9487-69bfaea8dbed" />
+<img width="1920" height="1080" alt="491366686-c4e990a1-1058-408c-9269-cb0a87fc0116" src="https://github.com/user-attachments/assets/61b99edb-7ec9-42c9-a673-548fbdcd326a" />
+This shows the configruation of the PDU for local communication
+
+
+•	PDU details for remote communication:
+<img width="1920" height="1080" alt="491367487-32cb3b36-63b0-4c16-a6c8-99deabfebd0b" src="https://github.com/user-attachments/assets/2e9a09db-90ee-4bed-a670-6e3f6df2a145" />
+<img width="1920" height="1080" alt="491367480-cb4c88fb-ff42-4d38-9dde-4868ca824fea" src="https://github.com/user-attachments/assets/cb9a2e14-a4ff-4d3e-baf1-54d38f64d33f" />
+<img width="1920" height="1080" alt="491367464-5a36660d-e0bc-4c84-82f5-afb39b6a068f" src="https://github.com/user-attachments/assets/51c66efd-3686-4633-9c46-108d292fbadf" />
+<img width="1920" height="1080" alt="491367624-d98c44ca-018a-4ac0-b6b4-230c3ffbfe6e" src="https://github.com/user-attachments/assets/d941a2b5-8852-4273-8ba9-b78c253c952b" />
+<img width="1920" height="1080" alt="491367609-74f8cfe3-b101-4c1b-9ba2-bb7773c5912e" src="https://github.com/user-attachments/assets/4374ca4b-1c53-4c8e-b072-807e3f8025f4" />
+
 •	Tables showing MAC/IP changes through each device<br>
 ________________________________________
 # Result

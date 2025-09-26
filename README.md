@@ -53,7 +53,8 @@ ________________________________________
 <img width="1920" height="1080" alt="491366714-4208635d-8b3b-4800-bea7-cb6b9e1068de" src="https://github.com/user-attachments/assets/0f4afb48-750b-4607-bde3-231a2b78d696" />
 <img width="1920" height="1080" alt="491366707-b07c6fe5-81c6-4cb6-90e1-b90ba4515f35" src="https://github.com/user-attachments/assets/f8d02104-ca3e-481c-9487-69bfaea8dbed" />
 <img width="1920" height="1080" alt="491366686-c4e990a1-1058-408c-9269-cb0a87fc0116" src="https://github.com/user-attachments/assets/61b99edb-7ec9-42c9-a673-548fbdcd326a" />
-This shows the configruation of the PDU for local communication
+
+This shows the configruation of the PDU for local communication.
 
 
 •	PDU details for remote communication:
@@ -62,9 +63,16 @@ This shows the configruation of the PDU for local communication
 <img width="1920" height="1080" alt="491367464-5a36660d-e0bc-4c84-82f5-afb39b6a068f" src="https://github.com/user-attachments/assets/51c66efd-3686-4633-9c46-108d292fbadf" />
 <img width="1920" height="1080" alt="491367624-d98c44ca-018a-4ac0-b6b4-230c3ffbfe6e" src="https://github.com/user-attachments/assets/d941a2b5-8852-4273-8ba9-b78c253c952b" />
 <img width="1920" height="1080" alt="491367609-74f8cfe3-b101-4c1b-9ba2-bb7773c5912e" src="https://github.com/user-attachments/assets/4374ca4b-1c53-4c8e-b072-807e3f8025f4" />
+<img width="1920" height="1080" alt="491367595-1fa11d1b-824e-4176-a8a1-3d58bccc18c0" src="https://github.com/user-attachments/assets/5c06dae8-f829-4c0b-b530-a925382b2013" />
 
-•	Tables showing MAC/IP changes through each device<br>
-________________________________________
+The above figures shows a clear detail of PDU for remote communication.
+
+•	Tables showing MAC/IP changes through each device:
+
+<img width="1920" height="1080" alt="491367656-307d7d21-5df7-47ef-8468-76971ac72b6a" src="https://github.com/user-attachments/assets/7221339c-44f0-4208-8721-ccee8640fa61" />
+<img width="1920" height="1080" alt="491367648-75f91671-9be1-4ef9-83e7-ca6976bc1cf3" src="https://github.com/user-attachments/assets/feffdced-8d3d-46ec-b2d8-3d093574ba75" />
+
+___________________________________
 # Result
 Successfully captured and analyzed MAC and IP addresses for both local and remote communications. Verified that MAC addresses change at each hop while IP addresses remain constant from source to destination.
 
